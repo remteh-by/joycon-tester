@@ -5,7 +5,10 @@
 ### Nintendo Switch Controller Testing App for Android
 
 <p>
-  <img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android">
+  <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white" alt="iOS">
+  <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white" alt="macOS">
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows">
   <img src="https://img.shields.io/badge/Controller-Joy--Con_/_Pro-E60012?style=flat-square&logo=nintendo-switch&logoColor=white" alt="Joy-Con">
   <img src="https://img.shields.io/badge/License-Proprietary-red?style=flat-square" alt="Proprietary">
 </p>
