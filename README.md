@@ -7,8 +7,7 @@
 <p>
   <img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android">
   <img src="https://img.shields.io/badge/Controller-Joy--Con_/_Pro-E60012?style=flat-square&logo=nintendo-switch&logoColor=white" alt="Joy-Con">
-  <img src="https://img.shields.io/badge/License-MIT-blue?style=flat-square" alt="MIT">
-  <img src="https://img.shields.io/github/v/release/remteh-by/joycon-tester?style=flat-square&color=E60012" alt="Release">
+  <img src="https://img.shields.io/badge/License-Proprietary-red?style=flat-square" alt="Proprietary">
 </p>
 
 <p>
@@ -20,13 +19,22 @@
   <a href="#-中文">中文</a>
 </p>
 
+---
+
+### 💳 Purchase / Купить / Купіць
+
+<p>
+  <a href="#"><img src="https://img.shields.io/badge/Google_Play-Buy_Now-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"></a>
+  <a href="https://www.paypal.com/paypalme/remtehby"><img src="https://img.shields.io/badge/PayPal-Buy_Now-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"></a>
+</p>
+
+> ⚠️ **This is proprietary software.** Source code is provided for review purposes only. A valid purchased license is required to use this application.
+
 </div>
 
 ---
 
 ## 🇬🇧 English
-
-### Features
 
 | Feature | Description |
 |---|---|
@@ -37,107 +45,74 @@
 | 📊 **Calibration** | Min/max tracking with dead zone slider (0-30%) |
 | ⏱ **Diagnostics** | Input latency, hold time, press counter, raw axis data |
 
-### Install
-
-Download APK from [Releases](https://github.com/remteh-by/joycon-tester/releases).
-
-### Build
-
-```bash
-./gradlew assembleDebug          # Debug APK
-./gradlew assembleRelease        # Signed release APK
-./gradlew bundleRelease          # AAB for Play Store
-```
-
 ---
 
 ## 🇷🇺 Русский
 
-### Возможности
-
 | Функция | Описание |
 |---|---|
 | 🔘 **Кнопки** | B A Y X • L/R • ZL/ZR • +/− • Home ⌂ • Capture ◻ |
-| 🕹️ **Стики** | Визуализация с AXIS_Z/RZ + фоллбек RX/RY для совместимости |
+| 🕹️ **Стики** | Визуализация с AXIS_Z/RZ + фоллбек RX/RY |
 | 🎯 **Триггеры** | Точное отображение давления ZL/ZR |
 | 🔊 **Вибрация** | Тест HD Rumble: короткая, средняя, длинная + паттерн |
 | 📊 **Калибровка** | Отслеживание min/max, слайдер мёртвой зоны (0-30%) |
-| ⏱ **Диагностика** | Задержка ввода, время удержания, счётчик нажатий, raw-данные |
 
-### Установка
-
-Скачайте APK из раздела [Releases](https://github.com/remteh-by/joycon-tester/releases).
+**Как купить:** Приобретите в **Google Play** или через **PayPal** по ссылкам выше.
 
 ---
 
 ## 🇧🇾 Беларуская
 
-### Магчымасці
-
 | Функцыя | Апісанне |
 |---|---|
 | 🔘 **Кнопкі** | B A Y X • L/R • ZL/ZR • +/− • Home ⌂ • Capture ◻ |
-| 🕹️ **Стыкі** | Візуалізацыя з AXIS_Z/RZ + фоллбек RX/RY для сумяшчальнасці |
+| 🕹️ **Стыкі** | Візуалізацыя з AXIS_Z/RZ + фоллбек RX/RY |
 | 🎯 **Трыгеры** | Дакладнае адлюстраванне ціску ZL/ZR |
-| 🔊 **Вібрацыя** | Тэст HD Rumble: кароткая, сярэдняя, доўгая + патэрн |
 
-### Спампаваць
-
-Спампуйце APK з раздзела [Releases](https://github.com/remteh-by/joycon-tester/releases).
+**Як купіць:** Набудзьце ў **Google Play** або праз **PayPal**.
 
 ---
 
 ## 🇩🇪 Deutsch
-
-### Funktionen
 
 | Funktion | Beschreibung |
 |---|---|
 | 🔘 **Tasten** | B A Y X • L/R • ZL/ZR • +/− • Home ⌂ • Capture ◻ |
 | 🕹️ **Sticks** | Echtzeit-Visualisierung mit AXIS_Z/RZ + RX/RY-Fallback |
 | 🎯 **Trigger** | Präzise ZL/ZR-Druckanzeige |
-| 🔊 **Vibration** | HD Rumble testen: kurz, mittel, lang + Muster |
 
-### Herunterladen
-
-APK aus dem Bereich [Releases](https://github.com/remteh-by/joycon-tester/releases) herunterladen.
+**Kaufen:** Im **Google Play Store** oder über **PayPal**.
 
 ---
 
 ## 🇵🇱 Polski
-
-### Funkcje
 
 | Funkcja | Opis |
 |---|---|
 | 🔘 **Przyciski** | B A Y X • L/R • ZL/ZR • +/− • Home ⌂ • Capture ◻ |
 | 🕹️ **Analogi** | Wizualizacja z AXIS_Z/RZ + fallback RX/RY |
 | 🎯 **Triggery** | Precyzyjne wyświetlanie nacisku ZL/ZR |
-| 🔊 **Wibracje** | Test HD Rumble: krótka, średnia, długa + wzór |
 
-### Pobierz
-
-Pobierz APK z sekcji [Releases](https://github.com/remteh-by/joycon-tester/releases).
+**Kup:** W **Google Play** lub przez **PayPal**.
 
 ---
 
 ## 🇨🇳 中文
 
-### 功能
-
 | 功能 | 描述 |
 |---|---|
 | 🔘 **按钮** | B A Y X • L/R • ZL/ZR • +/− • Home ⌂ • Capture ◻ |
-| 🕹️ **摇杆** | 实时可视化，支持 AXIS_Z/RZ + RX/RY 备用 |
-| 🎯 **扳机** | 精确显示 ZL/ZR 压力 |
-| 🔊 **振动** | 测试 HD Rumble：短、中、长 + 自定义模式 |
+| 🕹️ **摇杆** | 实时可视化，AXIS_Z/RZ + RX/RY 备用 |
+| 🎯 **扳机** | 精确 ZL/ZR 压力显示 |
 
-### 下载
-
-从 [Releases](https://github.com/remteh-by/joycon-tester/releases) 下载 APK。
+**购买：** 通过 **Google Play** 或 **PayPal**。
 
 ---
 
 <div align="center">
-<sub>Made by <a href="https://github.com/remteh-by">RemTeh.by</a> 🇧🇾 with ❤️</sub>
+
+⚖️ **Proprietary Software** · © 2025 RemTeh.by · [LICENSE](LICENSE)
+
+<sub>Made by <a href="https://github.com/remteh-by">RemTeh.by</a> 🇧🇾</sub>
+
 </div>
