@@ -3,8 +3,8 @@ package com.remteh.joycontester;
 import android.graphics.Color;
 
 public class JoyConTestActivity extends BaseTestActivity {
-    @Override protected int getAccentColor() { return Color.parseColor("#E60012"); }
-    @Override protected String getControllerTitle() { return "🔴  JOY-CON / PRO"; }
+    @Override protected int getAccentColor() { return Color.parseColor("#57D7E9"); }
+    @Override protected String getControllerTitle() { return "Joy-Con Tester"; }
     @Override protected String[] getFaceButtonLabels() { return new String[]{"B", "A", "Y", "X"}; }
     @Override protected int[] getFaceButtonColors() {
         return new int[]{ 0xFFE60012, 0xFFE60012, 0xFF0AB9E6, 0xFF0AB9E6 };

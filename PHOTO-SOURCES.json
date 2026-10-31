@@ -1,0 +1,20 @@
+[
+  {
+    "slug": "joycon",
+    "model": "Nintendo Switch Joy-Con (L/R) · Grey",
+    "author": "Brett Chalupa",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Nintendo_Switch_grey_Joy-con_controllers.jpg",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Nintendo_Switch_grey_Joy-con_controllers.jpg",
+    "original_sha256": "73092ccc92096aa9238756e151876cee89fcabd8d2c58a6a462bfa4409d4521c",
+    "original_bytes": 182248,
+    "asset_sha256": "b7338d784cb320793ff03478cacfa44915aefcb98ffe7e3f98199cb7bdc4b321",
+    "asset_bytes": 68746,
+    "asset_dimensions": "1400x788",
+    "changes": "AI-assisted background removal with imagegen, resized and converted to transparent WebP; original licensed photograph retained as provenance",
+    "derivative_license": "CC BY 2.0",
+    "asset_path": "app/src/main/res/drawable-nodpi/controller_photo.webp",
+    "background": "transparent alpha"
+  }
+]
